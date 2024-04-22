@@ -1,4 +1,3 @@
-# 4BIT_RIPPLECOUNTER
 # Aim
 To stimulate and synthesis 4bit Ripple counter using Vivado.
 # Apparatus Required
@@ -17,6 +16,7 @@ STEP:5 Select the run simulation and then run Behavioral Simulation in the Sourc
 STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 
 STEP:7 compare the output with truth table.
+# 4BIT_RIPPLECOUNTER
 # Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/4BIT_RIPPLECOUNTER/assets/154305926/324dfe68-4985-401a-9f0c-7df90b08265e)
 # T- Flip Flop
